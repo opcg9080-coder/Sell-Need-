@@ -58,8 +58,8 @@ function seed() {
 // Demo admin credentials — client-side only. Real protection needs a real
 // backend; see README for how to upgrade this later.
 // ---------------------------------------------------------------------------
-const ADMIN_EMAIL = "admin@marketplace.local";
-const ADMIN_PASSWORD = "admin123";
+const ADMIN_EMAIL = "kiposahi@gmail.com";
+const ADMIN_PASSWORD = "bhootlodu0369";
 
 export const auth = {
   async login(email, password) {
